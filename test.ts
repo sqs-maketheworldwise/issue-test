@@ -65,3 +65,8 @@ function todo8() {
     // TODO hi
     // todo8
  }
+
+ function todo9() {
+    // * TODO todo9
+    // todo9
+ }
