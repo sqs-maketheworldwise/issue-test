@@ -37,12 +37,26 @@ function todo3() {
     // todo3
  }
 
- function todo4() {
+function todo4() {
     // todo
     // todo4
  }
 
- function todo5() {
+function todo5() {
     //+todo
     //+todo4
+ }
+
+function todo6() {
+    /**
+     * todo6
+     * todo6
+     */
+ }
+
+function todo7() {
+    /**
+     * TODO
+     * TODO7
+     */
  }
