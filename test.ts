@@ -60,3 +60,8 @@ function todo7() {
      * TODO7
      */
  }
+
+function todo8() {
+    // TODO hi
+    // todo8
+ }
