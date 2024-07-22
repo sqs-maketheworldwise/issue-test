@@ -28,6 +28,9 @@ jobs:
       - name: Run Issue Bot
         uses: juulsn/todo-issue@main
         with:
+          blobLinesBefore: 1
+          blobLines: 5
+          caseSensitive: false
           keywords: 'todo,TODO'
           excludePattern: '^(node_modules/)'
         env:
