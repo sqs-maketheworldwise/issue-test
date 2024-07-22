@@ -31,7 +31,7 @@ jobs:
           blobLinesBefore: 1
           blobLines: 5
           caseSensitive: false
-          keywords: 'todo,TODO,@TODO'
+          keywords: 'todo,TODO'
           excludePattern: '^(node_modules/)'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
